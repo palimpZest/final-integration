@@ -8,8 +8,8 @@
     border-style: solid;
     border-color: red;
     border-width: 1px;
-}*/
-
+}
+*/
 /*Helper styles to start a Bootstrap project*/
 
 /*body {
@@ -31,6 +31,13 @@
  *
  */
 
+nav {
+    height: 150px;
+}
+
+div.item > img {
+    height: 300px;
+}
 
 /*
  *
